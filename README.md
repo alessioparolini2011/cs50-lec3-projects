@@ -16,7 +16,7 @@ Good question. The same thing I do with the scripts @dmalan showed in the video.
 
 Hi, I'm Alessio. See my profile [here](https://github.com//alessioparolini2011). 
 
-If you want to see the post on X, is [here](https://github.com/alessioparolini2011/cs50-lec3-projects)
+If you want to see the post on X, is [here](https://x.com/alepar_cs/status/2087825826926473683?s=20)
 
 >[!IMPORANT]
 > A huge thanks to @dmalan and all @cs50 team to this peak course!
