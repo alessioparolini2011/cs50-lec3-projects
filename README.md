@@ -18,5 +18,5 @@ Hi, I'm Alessio. See my profile [here](https://github.com//alessioparolini2011).
 
 If you want to see the post on X, is [here](https://github.com/alessioparolini2011/cs50-lec3-projects)
 
->[!NOTE]
+>[!IMPORANT]
 > A huge thanks to @dmalan and all @cs50 team to this peak course!
